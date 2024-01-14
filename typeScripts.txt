@@ -1,0 +1,2 @@
+for distructure children we will use
+{children}:{children:ReactNode}
