@@ -1,2 +1,16 @@
 for distructure children we will use
 {children}:{children:ReactNode}
+
+
+
+type for button will be 
+for ref
+
+type TRef=HTMLButtonElement;
+
+type of propos will be
+
+type TButton={}
+
+
+const Button=forwardRef<TRef,TButton>
