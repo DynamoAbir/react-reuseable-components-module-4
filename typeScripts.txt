@@ -10,7 +10,7 @@ type TRef=HTMLButtonElement;
 
 type of propos will be
 
-type TButton={}
+type TButton=DetailedHTMLProps<HTMLAttributes<HTMLBaseElement>,
 
 
 const Button=forwardRef<TRef,TButton>
